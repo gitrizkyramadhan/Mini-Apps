@@ -1,2 +1,3 @@
 # Mini-Apps
-Androdi base apps
+Android base apps
+learning purpose :D

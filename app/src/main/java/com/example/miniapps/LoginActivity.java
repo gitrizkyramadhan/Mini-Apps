@@ -16,6 +16,6 @@ public class LoginActivity extends AppCompatActivity {
         final EditText emailEditText = findViewById(R.id.etEmail);
         final EditText passEditText = findViewById(R.id.etPass);
         final Button loginBtn = findViewById(R.id.btnLogin);
-        
+
     }
 }
